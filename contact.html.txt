@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+</head>
+<body>
+
+<h1>Contact Us</h1>
+
+<p>Email: info@autodrive.com</p>
+<p>Phone: +254 700 000000</p>
+
+<footer>
+    <p>Follow us on social media</p>
+</footer>
+
+</body>
+</html>

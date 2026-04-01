@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AutoDrive Motors</title>
+
+    <!-- INTERNAL CSS -->
+    <style>
+        body {
+            font-family: Arial;
+            background-color: lightgray;
+            text-align: center;
+        }
+
+        nav {
+            background: black;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+        }
+    </style>
+
+    <!-- EXTERNAL CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="cars.html">Cars</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1 style="color: blue;">Welcome to AutoDrive Motors</h1>
+
+<!-- INLINE CSS -->
+<p style="font-weight: bold;">We offer the best cars in the world.</p>
+
+<p><i>Luxury</i>, <u>Speed</u>, and <mark>Comfort</mark> all in one place.</p>
+
+<!-- Images in containers -->
+<div class="container">
+    <img src="images/car1.jpg" width="200">
+    <img src="images/car2.jpg" width="200">
+    <img src="images/car3.jpg" width="200">
+    <img src="images/car4.jpg" width="200">
+    <img src="images/car5.jpg" width="200">
+</div>
+
+<footer>
+    <p>© 2026 AutoDrive Motors</p>
+</footer>
+
+</body>
+</html>

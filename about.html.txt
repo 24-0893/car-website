@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+</head>
+<body>
+
+<p><b>AutoDrive Motors</b> is a leading car dealer.</p>
+<p><i>We provide quality vehicles.</i></p>
+<p><u>Customer satisfaction is our priority.</u></p>
+<p>CO<sub>2</sub> emissions reduced.</p>
+<p>Speed 100km/h<sup>2</sup></p>
+<p><del>Old models</del> New models available</p>
+<p><mark>Best deals today!</mark></p>
+
+<blockquote>
+    "Driving innovation forward."
+</blockquote>
+
+</body>
+</html>
